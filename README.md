@@ -1,8 +1,8 @@
 Kelompok 7 <br>
 Anggota:
 <ul>
-- Baktiar Lammartua Purba
-- Addin Syahid Nugraha
+<li>Baktiar Lammartua Purba</li>
+<li>Addin Syahid Nugraha</li>
 </ul>
 Pembagian Tugas:
 - Latihan (Baktiar)
