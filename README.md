@@ -5,7 +5,9 @@ Anggota:
 <li>Addin Syahid Nugraha</li>
 </ul>
 Pembagian Tugas:
-- Latihan (Baktiar)
-- Tugas 1 ()
-- Tugas 2 ()
-- Tugas 3 ()
+<ul>
+<li>Latihan (Baktiar)</li>
+<li>Tugas 1 ()</li>
+<li>Tugas 2 ()</li>
+<li>Tugas 3 ()</li>
+</ul>
