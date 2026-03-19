@@ -9,5 +9,5 @@ Pembagian Tugas:
 <li>Latihan (Baktiar)</li>
 <li>Tugas 1 (Addin)</li>
 <li>Tugas 2 (Addin)</li>
-<li>Tugas 3 ()</li>
+<li>Tugas 3 (Baktiar)</li>
 </ul>
