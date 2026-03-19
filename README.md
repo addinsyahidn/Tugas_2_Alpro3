@@ -7,7 +7,7 @@ Anggota:
 Pembagian Tugas:
 <ul>
 <li>Latihan (Baktiar)</li>
-<li>Tugas 1 ()</li>
-<li>Tugas 2 ()</li>
+<li>Tugas 1 (Addin)</li>
+<li>Tugas 2 (Addin)</li>
 <li>Tugas 3 ()</li>
 </ul>
